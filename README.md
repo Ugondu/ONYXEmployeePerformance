@@ -154,31 +154,13 @@ The SQL Script for the transformation is [seen here](https://github.com/Ugondu/O
 
 # Recommendations
 
-- Improving Performance:
+* Remote Work: 
+For those working remotely, consider providing additional support or resources to ensure they have the necessary tools and technology.
+* Sick Days:
+Explore strategies to reduce absenteeism, such as implementing wellness programs or offering flexible sick leave policies.
+* Work Hours:
+Encourage employees to maintain a healthy work-life balance and avoid excessive overtime.
 
-Tailored Training Programs: Provide department-specific training to address performance gaps and enhance skills.
-Mentorship Programs: Pair high-performing employees with less experienced ones to foster knowledge sharing and development.
-Performance Recognition: Implement a robust recognition program to reward and motivate top performers.
-
-
-- Enhancing Employee Engagement:
-
-Flexible Work Arrangements: Consider offering flexible work options, such as remote work or flexible hours, to improve work-life balance.
-Employee Engagement Surveys: Conduct regular surveys to gather feedback on employee satisfaction and identify areas for improvement.
-Social Events and Activities: Organize team-building activities and social events to foster a positive work culture.
-
-
-- Optimizing Resource Allocation:
-
-Workload Balancing: Analyze workload distribution across departments and teams to identify potential bottlenecks and reallocate resources as needed.
-Skill-Based Staffing: Ensure that employees are matched to roles that align with their skills and experience.
-Succession Planning: Develop a succession plan to identify and develop high-potential employees for future leadership roles.
-
-- Addressing Specific Findings:
-
-Remote Work: For those working remotely, consider providing additional support or resources to ensure they have the necessary tools and technology.
-Sick Days: Explore strategies to reduce absenteeism, such as implementing wellness programs or offering flexible sick leave policies.
-Work Hours: Encourage employees to maintain a healthy work-life balance and avoid excessive overtime.
 By implementing these targeted strategies, ONYX can create a more positive and productive work environment, improve employee engagement, and optimize resource allocation to achieve its overall business objectives.
 
 
