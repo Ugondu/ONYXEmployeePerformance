@@ -99,7 +99,7 @@ The cleaned data should meet the following criteria:
 - All data types should be appropriate for the contents of each column
 - No null and blank values in the dataset indicating complete data for all records.
 
-To attaiin a normalized dataset, the following steps are required;
+To attain a normalized dataset, the following steps are required;
 
 1. Remove irrelavant columns by dropping them from the duplicate table
 2. Remove null and blank fields in the dataset
